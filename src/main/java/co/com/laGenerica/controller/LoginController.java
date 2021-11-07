@@ -59,5 +59,5 @@ public class LoginController {
 		}
 		return modelo;
 	}
-	//prueba git
+	//prueba git 2
 }
